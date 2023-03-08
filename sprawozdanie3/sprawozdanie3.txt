@@ -1,0 +1,15 @@
+ZADANIE8
+Plik Hosts jest używany przez system operacyjny do mapowania przyjaznych dla człowieka nazw hostów na numeryczne adresy IP
+(Internet Protocol), które identyfikują i lokalizują hosta w sieci IP.
+
+Plik Networks
+Ten plik zawiera mapowania nazw sieci albo numerów sieci dla sieci lokalnych. Numery sieci są rozpoznawane w postaci dziesiętnej z kropkami.
+
+Plik imhosts.sam
+lmhosts to plik tekstowy, który porównuje adresy IP (Internet Protocol) z nazwami zdalnych serwerów NetBIOS, z którymi łączy się użytkownik za pośrednictwem protokołu TCP /IP.
+
+Plik Protocol
+ten plik zwiera protokoły internetowe zdefinowane przez zmienne.
+
+Plik services
+zawiera protokoły i ich porty.
