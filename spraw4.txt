@@ -1,0 +1,20 @@
+ZADANIE1
+Klikamy odpowiednio Maszyna -> Ustawienia -> Sieć -> Karta 1 -> podłączona do: wybieramy"mostkowana karta sieciowa(bridged)"
+
+Zadanie2
+Maszyna wirtualna:
+ipv4 : 192.168.13.64
+maska sieciowa: 255.255.255.0
+Brama sieciowa: 192.168.13.1
+
+Zadanie3:
+Komputer gospodarza
+ipv4 : 192.168.13.15
+maska sieciowa: 255.255.255.0
+Brama sieciowa: 192.168.13.1
+
+Kopmuter gospodarza i maszyna wirtualna ma taką sama bramę sieciową ponieważ ustawiliścmy karte jako mostkowaną.
+
+
+Zadanie4:
+
